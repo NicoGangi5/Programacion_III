@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\test\;CMake Files\test\lib\;CMake Files\test\lib\gtest-1.8.1\;CMake Files\test\lib\gtest-1.8.1\cmake\;CMake Files\U00_Repaso\;CMake Files\U01_Recursividad\;CMake Files\U02_Listas\;CMake Files\U03_Pilas\;CMake Files\U04_Colas\;CMake Files\U05_Arbol\;CMake Files\U06_Hash\;CMake Files\U07_Grafos\;CMake Files\U08_Ordenamiento\;CMake Files\U09_Busqueda\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/include"/>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/include"/>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/include"/>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/include"/>
+					<Add directory="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nicogangi/Documents/Facultad/Programación\ III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\gtest-1.8.1\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/test/lib/gtest-1.8.1/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\lib\gtest-1.8.1\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U00_Repaso\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U01_Recursividad/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U01_Recursividad\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U02_Listas\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U03_Pilas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U03_Pilas\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U04_Colas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U04_Colas\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U05_Arbol/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U05_Arbol\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U06_Hash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U06_Hash\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U07_Grafos/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U07_Grafos\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U08_Ordenamiento/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U08_Ordenamiento\"/>
+		</Unit>
+		<Unit filename="/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U09_Busqueda/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\U09_Busqueda\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/Users/nicogangi/Desktop/Torres de Hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicogangi/Desktop/Torres de Hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicogangi/Desktop/Torres de Hanoi/cmake-build-debug/CMakeFiles/Torres_de_Hanoi.dir

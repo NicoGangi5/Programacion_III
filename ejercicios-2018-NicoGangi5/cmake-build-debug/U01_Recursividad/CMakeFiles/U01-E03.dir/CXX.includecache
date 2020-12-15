@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U01_Recursividad/Ej-03/ackerman.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U01_Recursividad/Ej-03/main.cpp
+iostream
+-
+ackerman.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U01_Recursividad/Ej-03/ackerman.h
+

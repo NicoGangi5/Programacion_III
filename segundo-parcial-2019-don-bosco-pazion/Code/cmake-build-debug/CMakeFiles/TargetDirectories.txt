@@ -1,0 +1,3 @@
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/cmake-build-debug/CMakeFiles/Code.dir

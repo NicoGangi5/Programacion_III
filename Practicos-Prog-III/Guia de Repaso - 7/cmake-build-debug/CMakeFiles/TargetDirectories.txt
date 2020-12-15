@@ -1,0 +1,3 @@
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Guia de Repaso - 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Guia de Repaso - 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Guia de Repaso - 7/cmake-build-debug/CMakeFiles/Guia_de_Repaso___7.dir

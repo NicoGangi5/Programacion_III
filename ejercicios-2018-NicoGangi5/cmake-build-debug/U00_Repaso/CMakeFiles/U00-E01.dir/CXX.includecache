@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Circulo.cpp
+Circulo.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Circulo.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Circulo.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Color.cpp
+Color.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Color.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Color.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Cuadrado.cpp
+Cuadrado.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Cuadrado.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Cuadrado.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Geometria.cpp
+Geometria.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Geometria.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Geometria.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Triangulo.cpp
+Triangulo.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Triangulo.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Triangulo.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/main.cpp
+iostream
+-
+Circulo.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Circulo.h
+Cuadrado.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Cuadrado.h
+Triangulo.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U00_Repaso/Ej-01/Triangulo.h
+

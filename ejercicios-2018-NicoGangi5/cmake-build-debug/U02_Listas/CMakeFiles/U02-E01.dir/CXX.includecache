@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Ej-01/fnInvierte.h
+../Lista/Lista.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Lista/Lista.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Ej-01/main.cpp
+iostream
+-
+../Lista/Lista.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Lista/Lista.h
+fnInvierte.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Ej-01/fnInvierte.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Lista/Lista.h
+nodo.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Lista/nodo.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U02_Listas/Lista/nodo.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 2/Ejercicio 1/Pila.h
+nodo.h
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 2/Ejercicio 1/nodo.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 2/Ejercicio 1/main.cpp
+iostream
+-
+Pila.h
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 2/Ejercicio 1/Pila.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 2/Ejercicio 1/nodo.h
+

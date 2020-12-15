@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/U00-E05.dir/Ej-05/main.cpp.o CMakeFiles/U00-E05.dir/Ej-05/Entero.cpp.o  -o U00-E05 

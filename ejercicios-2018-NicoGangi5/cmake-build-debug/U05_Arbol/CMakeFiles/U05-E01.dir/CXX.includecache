@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U05_Arbol/Arbol/ArbolBinario.h
+NodoArbol.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U05_Arbol/Arbol/NodoArbol.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U05_Arbol/Arbol/NodoArbol.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U05_Arbol/Ej-01/main.cpp
+iostream
+-
+stdlib.h
+-
+../Arbol/ArbolBinario.h
+/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/U05_Arbol/Arbol/ArbolBinario.h
+

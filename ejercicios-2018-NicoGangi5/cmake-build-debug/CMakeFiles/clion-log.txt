@@ -1,0 +1,93 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5"
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.15/Modules/Platform/Darwin-Initialize.cmake:131 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.15/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  The CMAKE_C_COMPILER:
+
+    /Library/Developer/CommandLineTools/usr/bin/cc
+
+  is not a full path to an existing compiler tool.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CC" or the CMake cache entry CMAKE_C_COMPILER to the full path to
+  the compiler, or to the compiler name if it is in the PATH.
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  The CMAKE_CXX_COMPILER:
+
+    /Library/Developer/CommandLineTools/usr/bin/c++
+
+  is not a full path to an existing compiler tool.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+Cannot read /Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake
+Cannot read /Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake
+
+Cannot get compiler information:
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/test/lib/gtest-1.8.1"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U00_Repaso"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U00_Repaso"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U00_Repaso"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U00_Repaso"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U00_Repaso"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U00_Repaso"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U01_Recursividad"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U01_Recursividad"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U01_Recursividad"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U01_Recursividad"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U01_Recursividad"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U02_Listas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U03_Pilas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U03_Pilas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U03_Pilas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U03_Pilas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U03_Pilas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U04_Colas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U04_Colas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U04_Colas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U04_Colas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U04_Colas"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U05_Arbol"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U05_Arbol"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U05_Arbol"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U05_Arbol"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U06_Hash"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U06_Hash"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U06_Hash"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U07_Grafos"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U07_Grafos"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U07_Grafos"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U08_Ordenamiento"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U08_Ordenamiento"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U08_Ordenamiento"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U08_Ordenamiento"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U08_Ordenamiento"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U09_Busqueda"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U09_Busqueda"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U09_Busqueda"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U09_Busqueda"): error=2, No such file or directory
+	Cannot run program "/Library/Developer/CommandLineTools/usr/bin/c++" (in directory "/Users/nicogangi/Documents/Facultad/Programación III/ejercicios-2018-NicoGangi5/cmake-build-debug/U09_Busqueda"): error=2, No such file or directory

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 1/Ejercicio 3/main.cpp
+iostream
+-
+time.h
+/Users/nicogangi/Documents/Facultad/Programación III/Practicos-Prog-III/Parcial 1/Ejercicio 3/time.h
+

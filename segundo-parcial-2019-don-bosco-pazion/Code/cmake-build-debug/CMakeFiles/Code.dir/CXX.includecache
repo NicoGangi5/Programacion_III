@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/ArbolBinario.h
+stdexcept
+-
+iostream
+-
+NodoArbol.h
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/NodoArbol.h
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+cstring
+-
+HashMapConColi.h
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/HashMapConColi.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/ArbolBinarioAVL.h
+stdexcept
+-
+iostream
+-
+
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/Dato.h
+ostream
+-
+
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/HashMapConColi.h
+ArbolBinarioAVL.h
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/ArbolBinarioAVL.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/NodoArbol.h
+
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+cstring
+-
+ArbolBinario.h
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/ArbolBinario.h
+Dato.h
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/Dato.h
+HashMapConColi.h
+/Users/nicogangi/Documents/Facultad/Programación III/segundo-parcial-2019-don-bosco-pazion/Code/HashMapConColi.h
+
